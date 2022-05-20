@@ -92,11 +92,19 @@
 // let powerNumber = firstNumber ** secondNumber;
 // console.log("POWER RESULT IS : ", powerNumber);
 
-let userBirthday = Number(prompt("Enter birthday year"));
-let userAge = 2022 - userBirthday;
-if (isNaN(userAge) || userAge < 2022) {
-  console.log("Wrong input");
+// let userBirthday = Number(prompt("Enter birthday year"));
+// let userAge = 2022 - userBirthday;
+// if (isNaN(userAge) || userAge < 2022) {
+//   console.log("Wrong input");
+// } else {
+//   console.log("your Age is : ", userAge);
+// }
+//  console.log("VaHiD")
+
+let getMinutes = Number(prompt("Enter a minutes : "), 0);
+let hoursCalulator = getMinutes / 60;
+if (isNaN(hoursCalulator)) {
+  console.log("worng number entered");
 } else {
-  console.log("your Age is : ", userAge);
+  console.log(hoursCalulator);
 }
- console.log("VaHiD")
