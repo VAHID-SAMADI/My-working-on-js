@@ -101,10 +101,13 @@
 // }
 //  console.log("VaHiD")
 
-let getMinutes = Number(prompt("Enter a minutes : "), 0);
-let hoursCalulator = getMinutes / 60;
-if (isNaN(hoursCalulator)) {
-  console.log("worng number entered");
-} else {
-  console.log(hoursCalulator);
-}
+// let getMinutes = Number(prompt("Enter a minutes : "), 0);
+// let hoursCalulator = getMinutes / 60;
+// if (isNaN(hoursCalulator)) {
+//   console.log("worng number entered");
+// } else {
+//   console.log(hoursCalulator);
+// }
+let age = 17
+let accessAllow =
+  age > 18 ? console.log("login") : console.log("login Failed!!");
