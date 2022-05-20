@@ -133,3 +133,9 @@
 //   default:
 //     console.log("Your Grade lower than 12");
 // }
+
+// let showTwoNumbers = function (number1, number2) {
+//   console.log(number1);
+//   console.log(number2);
+// };
+// showTwoNumbers(Number(prompt("Enter First Number")),Number(prompt("Enter Second Number")));
