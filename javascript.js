@@ -139,3 +139,13 @@
 //   console.log(number2);
 // };
 // showTwoNumbers(Number(prompt("Enter First Number")),Number(prompt("Enter Second Number")));
+
+// let oddOrEvenCalculator = function (inputNumber) {
+//   inputNumber = Number(prompt("What is your Number"));
+//   if (inputNumber % 2 === 0) {
+//     console.log("عدد زوج است ");
+//   } else {
+//     console.log("عدد فرد است ");
+//   }
+// };
+// oddOrEvenCalculator();
