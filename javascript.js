@@ -108,6 +108,28 @@
 // } else {
 //   console.log(hoursCalulator);
 // }
-let age = 17
-let accessAllow =
-  age > 18 ? console.log("login") : console.log("login Failed!!");
+// let age = 17
+// let accessAllow =
+//   age > 18 ? console.log("login") : console.log("login Failed!!");
+
+// let studentAvrage = Number(prompt("Enter your Score : ", 0));
+
+// switch (studentAvrage) {
+//   case 18:
+//   case 19:
+//   case 20:
+//     console.log("Grade A");
+//     break;
+//   case 15:
+//   case 16:
+//   case 17:
+//     console.log("Grade B");
+//     break;
+//   case 12:
+//   case 13:
+//   case 14:
+//     console.log("Grade C");
+//     break;
+//   default:
+//     console.log("Your Grade lower than 12");
+// }
