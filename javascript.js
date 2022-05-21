@@ -161,8 +161,17 @@
 // };
 // numbersAvrage();
 
-// let text = " We Love Js"
+let text = "    We Love Js    "
 // for (i in text){
 //   console.log(text[i])
 //   i++
 // }
+
+// console.log(text.charCodeAt(0))
+// console.log(text.charAt(0))
+// console.log(text.trim())
+// console.log(text.toLowerCase())
+// console.log(text.toUpperCase())
+// console.log(text.search("Js"))
+// console.log(text.indexOf("J"))
+console.log(text.includes("js"))
