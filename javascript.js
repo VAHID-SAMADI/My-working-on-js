@@ -154,9 +154,15 @@
 //   number1 = Number(prompt("What is your 1 Number"));
 //   number2 = Number(prompt("What is your 2 Number"));
 //   number3 = Number(prompt("What is your 3 Number"));
-//   console.log((number1 + number2 + number3) / 3);
 //   console.log(number1)
 //   console.log(number2)
 //   console.log(number3)
+//   console.log((number1 + number2 + number3) / 3);
 // };
 // numbersAvrage();
+
+// let text = " We Love Js"
+// for (i in text){
+//   console.log(text[i])
+//   i++
+// }
